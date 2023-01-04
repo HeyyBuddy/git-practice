@@ -6,3 +6,5 @@
 
 ---
 - Added new branch in Main repo.
+
+- Learnt tags
